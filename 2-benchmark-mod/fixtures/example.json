@@ -1,0 +1,29 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Gannon",
+      "role": "User"
+    },
+    {
+      "id": 2,
+      "name": "Alice",
+      "role": "User"
+    },
+    {
+      "id": 3,
+      "name": "David",
+      "role": "Admin"
+    },
+    {
+      "id": 4,
+      "name": "Julia",
+      "role": "User"
+    },
+    {
+      "id": 5,
+      "name": "Matz",
+      "role": "User"
+    }
+  ]
+}
